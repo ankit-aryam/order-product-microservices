@@ -58,7 +58,7 @@ cd ../order-service
 mvn clean package -DskipTests
 
 ### Step 2: Run with Docker Compose
-```bash
+
 bash
 Copy
 Edit
@@ -121,15 +121,3 @@ Edit
 Ankit Arya
 Java Backend Developer | Microservices | Spring Boot | Docker | REST APIs
 
-yaml
-Copy
-Edit
-
----
-
-## ✅ Step 3: Add README to GitHub
-
-Copy that markdown into a file:
-
-```bash
-touch README.md
