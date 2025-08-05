@@ -117,7 +117,7 @@ Edit
 
 ✅ Clean Architecture (Controller → Service → Repository)
 
-🙌 Author
+Author
 Ankit Arya
 Java Backend Developer | Microservices | Spring Boot | Docker | REST APIs
 
